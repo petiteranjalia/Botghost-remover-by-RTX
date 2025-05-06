@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Powered by TheJellyFishGuy -_-"];
+const statusMessages = ["ᴏᴏᴘꜱ", "ɪ ꜱᴘᴇᴀᴋ ꜰʟᴜᴇɴᴛ ꜱᴀʀᴄᴀꜱᴍ", "ʙʀᴀɪɴ : ᴀᴘᴘʟʏ ʙᴇꜰᴏʀᴇ ꜱᴘᴇᴀᴋɪɴɢ.", "ᴘʟᴇᴀꜱᴇ ᴜꜱᴇ ᴄᴏᴍᴍᴏɴ ꜱᴇɴꜱ", "ᴀɴʏᴡᴀʏꜱ, ᴡᴇ ᴋᴇᴇᴘ ɪᴛ ɢᴀɴɢꜱᴛᴀ"];
 
 
 let currentIndex = 0;
